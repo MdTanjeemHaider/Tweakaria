@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLx7dvvdImZyBSueE47uGpwbNGXTXeYkZFXIv+BRIieww3LbESmQL+bvHyejhbGO9jIkYazdtTShdm1SIPLPFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\Tweakaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MdTanjeem Haider\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
