@@ -1,4 +1,4 @@
-# Tweakaria
+ # ![Icon](icon.png)Tweakaria
 
 Tweakaria is a simple quality of life mod for [tModLoader](https://www.tmodloader.net/), a modloader for the game [Terraria](https://terraria.org/). Developed initially for private use among me and my friends, this mod offers quality of life improvements to certain aspects of the game.
 
