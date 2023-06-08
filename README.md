@@ -8,7 +8,7 @@ Inspired by other popular quality of life mods like "[imkSushi's](https://steamc
 
 * **Infinite Variants for Ammo:** Tweakaria introduces infinite variants for arrows, bullets darts, solutions and other ammo types, so you never run out of ammo in the middle of a boss fight.
 * **Melting Recipes:** Melt you old armours, weapons, tools and other items back into bars (melting returns 80% of the materials used to craft the item). You can also melt bars back into ores with 100% return.
-* **Exchange Recipes:** Don't like that you world only has gold? After you purchase the "Alteration Orb" from the merchant you can start exchanging ores and bars of the same tier. You can also exchange between a few other items that are similar to each other (check notes!).
+* **Exchange Recipes:** Don't like that your world only has gold? After you purchase the "Alteration Orb" from the merchant you can start exchanging ores and bars of the same tier. You can also exchange between a few other items that are similar to each other (check notes!).
 * **Craft Previously Unobtainable Items:** You can now craft items that were previously not craftable. No more farming for that biome key with 0.04% drop chance.
 
 **Note:** I highly reccomend using the [recipe browser](https://steamcommunity.com/sharedfiles/filedetails/?id=2619954303) mod alongside Tweakaria as it will provide access to all of the recipes without having to go to the guide NPC.
