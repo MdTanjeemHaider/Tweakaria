@@ -4,13 +4,11 @@ using Terraria.ModLoader;
 
 public class Shops : GlobalNPC
 {
-    public override void SetupShop(int type, Chest shop, ref int nextSlot)
+    public override void ModifyShop(NPCShop shop)
     {
-        // Add the Alteration Orb to the Merchant's shop
-        if (type == NPCID.Merchant)
+        if (shop.NpcType == NPCID.Merchant)
         {
-            shop.item[nextSlot].SetDefaults(ModContent.ItemType<AlterationOrb>());
-            nextSlot++;
+            shop.Add(new Item(ModContent.ItemType<AlterationOrb>()));
         }
     }
 }

@@ -1,0 +1,316 @@
+Items: {
+	Altar: {
+		DisplayName: Altar
+		Tooltip: ""
+	}
+
+	AlterationOrb: {
+		DisplayName: Alteration Orb
+		Tooltip: ""
+	}
+
+	InfiniteBlueFlares: {
+		DisplayName: Infinite Blue Flares
+		Tooltip: ""
+	}
+
+	InfiniteBlueSolutions: {
+		DisplayName: Infinite Blue Solutions
+		Tooltip: ""
+	}
+
+	InfiniteBoneArrows: {
+		DisplayName: Infinite Bone Arrows
+		Tooltip: ""
+	}
+
+	InfiniteCandyCorns: {
+		DisplayName: Infinite Candy Corns
+		Tooltip: ""
+	}
+
+	InfiniteChlorophyteArrows: {
+		DisplayName: Infinite Chlorophyte Arrows
+		Tooltip: ""
+	}
+
+	InfiniteChlorophyteBullets: {
+		DisplayName: Infinite Chlorophyte Bullets
+		Tooltip: ""
+	}
+
+	InfiniteClusterRocketsI: {
+		DisplayName: Infinite Cluster Rockets I
+		Tooltip: ""
+	}
+
+	InfiniteClusterRocketsII: {
+		DisplayName: Infinite Cluster Rockets I I
+		Tooltip: ""
+	}
+
+	InfiniteCopperCoins: {
+		DisplayName: Infinite Copper Coins
+		Tooltip: ""
+	}
+
+	InfiniteCrystalBullets: {
+		DisplayName: Infinite Crystal Bullets
+		Tooltip: ""
+	}
+
+	InfiniteCrystalDarts: {
+		DisplayName: Infinite Crystal Darts
+		Tooltip: ""
+	}
+
+	InfiniteCursedArrows: {
+		DisplayName: Infinite Cursed Arrows
+		Tooltip: ""
+	}
+
+	InfiniteCursedBullets: {
+		DisplayName: Infinite Cursed Bullets
+		Tooltip: ""
+	}
+
+	InfiniteCursedDarts: {
+		DisplayName: Infinite Cursed Darts
+		Tooltip: ""
+	}
+
+	InfiniteDarkBlueSolutions: {
+		DisplayName: Infinite Dark Blue Solutions
+		Tooltip: ""
+	}
+
+	InfiniteDryRockets: {
+		DisplayName: Infinite Dry Rockets
+		Tooltip: ""
+	}
+
+	InfiniteExplodingBullets: {
+		DisplayName: Infinite Exploding Bullets
+		Tooltip: ""
+	}
+
+	InfiniteExplosiveJackOLanterns: {
+		DisplayName: Infinite Explosive Jack O Lanterns
+		Tooltip: ""
+	}
+
+	InfiniteFallenStars: {
+		DisplayName: Infinite Fallen Stars
+		Tooltip: ""
+	}
+
+	InfiniteFlamingArrows: {
+		DisplayName: Infinite Flaming Arrows
+		Tooltip: ""
+	}
+
+	InfiniteFlares: {
+		DisplayName: Infinite Flares
+		Tooltip: ""
+	}
+
+	InfiniteFrostburnArrows: {
+		DisplayName: Infinite Frostburn Arrows
+		Tooltip: ""
+	}
+
+	InfiniteGels: {
+		DisplayName: Infinite Gels
+		Tooltip: ""
+	}
+
+	InfiniteGoldCoins: {
+		DisplayName: Infinite Gold Coins
+		Tooltip: ""
+	}
+
+	InfiniteGoldenBullets: {
+		DisplayName: Infinite Golden Bullets
+		Tooltip: ""
+	}
+
+	InfiniteGreenSolutions: {
+		DisplayName: Infinite Green Solutions
+		Tooltip: ""
+	}
+
+	InfiniteHellfireArrows: {
+		DisplayName: Infinite Hellfire Arrows
+		Tooltip: ""
+	}
+
+	InfiniteHighVelocityBullets: {
+		DisplayName: Infinite High Velocity Bullets
+		Tooltip: ""
+	}
+
+	InfiniteHolyArrows: {
+		DisplayName: Infinite Holy Arrows
+		Tooltip: ""
+	}
+
+	InfiniteHoneyRockets: {
+		DisplayName: Infinite Honey Rockets
+		Tooltip: ""
+	}
+
+	InfiniteIchorArrows: {
+		DisplayName: Infinite Ichor Arrows
+		Tooltip: ""
+	}
+
+	InfiniteIchorBullets: {
+		DisplayName: Infinite Ichor Bullets
+		Tooltip: ""
+	}
+
+	InfiniteIchorDarts: {
+		DisplayName: Infinite Ichor Darts
+		Tooltip: ""
+	}
+
+	InfiniteJesterArrows: {
+		DisplayName: Infinite Jester Arrows
+		Tooltip: ""
+	}
+
+	InfiniteLavaRockets: {
+		DisplayName: Infinite Lava Rockets
+		Tooltip: ""
+	}
+
+	InfiniteLuminiteArrows: {
+		DisplayName: Infinite Luminite Arrows
+		Tooltip: ""
+	}
+
+	InfiniteLuminiteBullets: {
+		DisplayName: Infinite Luminite Bullets
+		Tooltip: ""
+	}
+
+	InfiniteMeteorBullets: {
+		DisplayName: Infinite Meteor Bullets
+		Tooltip: ""
+	}
+
+	InfiniteMiniNukesI: {
+		DisplayName: Infinite Mini Nukes I
+		Tooltip: ""
+	}
+
+	InfiniteMiniNukesII: {
+		DisplayName: Infinite Mini Nukes I I
+		Tooltip: ""
+	}
+
+	InfiniteNails: {
+		DisplayName: Infinite Nails
+		Tooltip: ""
+	}
+
+	InfiniteNanoBullets: {
+		DisplayName: Infinite Nano Bullets
+		Tooltip: ""
+	}
+
+	InfinitePartyBullets: {
+		DisplayName: Infinite Party Bullets
+		Tooltip: ""
+	}
+
+	InfinitePlatinumCoins: {
+		DisplayName: Infinite Platinum Coins
+		Tooltip: ""
+	}
+
+	InfinitePoisonDarts: {
+		DisplayName: Infinite Poison Darts
+		Tooltip: ""
+	}
+
+	InfinitePurpleSolutions: {
+		DisplayName: Infinite Purple Solutions
+		Tooltip: ""
+	}
+
+	InfiniteRedSolutions: {
+		DisplayName: Infinite Red Solutions
+		Tooltip: ""
+	}
+
+	InfiniteRocketsI: {
+		DisplayName: Infinite Rockets I
+		Tooltip: ""
+	}
+
+	InfiniteRocketsII: {
+		DisplayName: Infinite Rockets I I
+		Tooltip: ""
+	}
+
+	InfiniteRocketsIII: {
+		DisplayName: Infinite Rockets I I I
+		Tooltip: ""
+	}
+
+	InfiniteRocketsIV: {
+		DisplayName: Infinite Rockets I V
+		Tooltip: ""
+	}
+
+	InfiniteSilverBullets: {
+		DisplayName: Infinite Silver Bullets
+		Tooltip: ""
+	}
+
+	InfiniteSilverCoins: {
+		DisplayName: Infinite Silver Coins
+		Tooltip: ""
+	}
+
+	InfiniteSnowballs: {
+		DisplayName: Infinite Snowballs
+		Tooltip: ""
+	}
+
+	InfiniteStakes: {
+		DisplayName: Infinite Stakes
+		Tooltip: ""
+	}
+
+	InfiniteStyngerBolts: {
+		DisplayName: Infinite Stynger Bolts
+		Tooltip: ""
+	}
+
+	InfiniteTungstenBullets: {
+		DisplayName: Infinite Tungsten Bullets
+		Tooltip: ""
+	}
+
+	InfiniteUnholyArrows: {
+		DisplayName: Infinite Unholy Arrows
+		Tooltip: ""
+	}
+
+	InfiniteVenomArrows: {
+		DisplayName: Infinite Venom Arrows
+		Tooltip: ""
+	}
+
+	InfiniteVenomBullets: {
+		DisplayName: Infinite Venom Bullets
+		Tooltip: ""
+	}
+
+	InfiniteWetRockets: {
+		DisplayName: Infinite Wet Rockets
+		Tooltip: ""
+	}
+}

@@ -31,24 +31,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MdTanjeem Haider\\.nuget\\packages\\": {},
-    "D:\\visual studio\\Shared Components\\NuGetPackages": {}
+    "C:\\Users\\MdTanjeem Haider\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\Tweakaria.csproj",
+      "projectUniqueName": "c:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\Tweakaria.csproj",
       "projectName": "Tweakaria",
-      "projectPath": "C:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\Tweakaria.csproj",
+      "projectPath": "c:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\Tweakaria.csproj",
       "packagesPath": "C:\\Users\\MdTanjeem Haider\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\obj\\",
+      "outputPath": "c:\\Users\\MdTanjeem Haider\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Tweakaria\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\visual studio\\Shared Components\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\MdTanjeem Haider\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -85,16 +80,31 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.26, 6.0.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

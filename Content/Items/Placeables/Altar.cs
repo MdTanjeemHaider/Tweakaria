@@ -5,11 +5,7 @@ using Terraria.ModLoader;
 public class Altar : ModItem
 {
     public override string Texture => "Tweakaria/Assets/Items/Placeables/Altar";
-    public override void SetStaticDefaults()
-    {
-        Tooltip.SetDefault("Allows the crafting of recipes that require Crimson/Demon Altars");
-    }
-    
+
     public override void SetDefaults()
     {
         Item.width = 48;
